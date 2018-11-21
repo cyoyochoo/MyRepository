@@ -84,4 +84,4 @@ mqtt.close();
 ``` java
 mqtt.isConnected();
 ```
-7. **To be continued**
+7. **To be continued...**
